@@ -2,6 +2,34 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.4.0](https://github.com/keptn/keptn/compare/1.3.0...1.4.0) (2023-04-30)
+
+
+### Features
+
+* Changelog reports dependencies bumps ([#9646](https://github.com/keptn/keptn/issues/9646)) ([6d36fd7](https://github.com/keptn/keptn/commit/6d36fd7a9ba5e0cf78e74df5eb329fab28478cdb))
+* upgrade MongoDB to v6.0.5 ([a765f2a](https://github.com/keptn/keptn/commit/a765f2af1a647b6f9e0be4246e3aa1ce79b56f24))
+* use Go 1.20 ([a765f2a](https://github.com/keptn/keptn/commit/a765f2af1a647b6f9e0be4246e3aa1ce79b56f24))
+
+
+### Build
+
+* **deps:** bump dependencies ([#9627](https://github.com/keptn/keptn/issues/9627)) ([d2d0108](https://github.com/keptn/keptn/commit/d2d01089f9703503b2fefbec5fbaa2e155a1292b))
+* **deps:** update actions/github-script action to v6.4.1 ([#9616](https://github.com/keptn/keptn/issues/9616)) ([7e4654d](https://github.com/keptn/keptn/commit/7e4654d58473ff5dbda0d63176a45026b11c7c84))
+* **deps:** update dawidd6/action-download-artifact action to v2.26.1 ([#9610](https://github.com/keptn/keptn/issues/9610)) ([4ea643f](https://github.com/keptn/keptn/commit/4ea643f8035d74f9f9b73a256431081158f86909))
+* **deps:** update docker.io/nginxinc/nginx-unprivileged docker tag to v1.24.0 ([#9630](https://github.com/keptn/keptn/issues/9630)) ([4a4657a](https://github.com/keptn/keptn/commit/4a4657af03a429334763775fe25bdc799ee137e7))
+* **deps:** update golang.org/x/exp digest to 0354be2 ([#9628](https://github.com/keptn/keptn/issues/9628)) ([2de8b0c](https://github.com/keptn/keptn/commit/2de8b0c1d291105cd5d7ab62bdc0bf6878103de4))
+* **deps:** update golang.org/x/exp digest to 133eef4 ([#9634](https://github.com/keptn/keptn/issues/9634)) ([2711026](https://github.com/keptn/keptn/commit/2711026565b1e3212dd524ccc50f9881feeade72))
+* **deps:** update golang.org/x/exp digest to 864b3d6 ([#9632](https://github.com/keptn/keptn/issues/9632)) ([5abc6d8](https://github.com/keptn/keptn/commit/5abc6d8e12274ecf5e85b75e42af9fade1359b96))
+* **deps:** update module github.com/cloudevents/sdk-go/protocol/nats/v2 to v2.14.0 ([#9631](https://github.com/keptn/keptn/issues/9631)) ([8405d2a](https://github.com/keptn/keptn/commit/8405d2a98efddc125565b9f8ffdf7bb51b515f53))
+* **deps:** update module github.com/cloudevents/sdk-go/v2 to v2.14.0 ([#9633](https://github.com/keptn/keptn/issues/9633)) ([c24c5dd](https://github.com/keptn/keptn/commit/c24c5dd1e00118b1099944cc40743fd4830f053f))
+* **deps:** update module github.com/nats-io/nats-server/v2 to v2.9.16 ([#9635](https://github.com/keptn/keptn/issues/9635)) ([f0edf71](https://github.com/keptn/keptn/commit/f0edf717269901561fbbc1e9d886e04a613902e8))
+* **deps:** update module github.com/nats-io/nats.go to v1.25.0 ([#9607](https://github.com/keptn/keptn/issues/9607)) ([0d527c7](https://github.com/keptn/keptn/commit/0d527c791f5d8ec3deccd7641a04d29599d12041))
+* **deps:** update reviewdog/action-setup action to v1.0.4 ([#9653](https://github.com/keptn/keptn/issues/9653)) ([6827bdb](https://github.com/keptn/keptn/commit/6827bdbee17fa2849142754312bfa61479aaa953))
+* **deps:** update sigstore/cosign-installer action to v3.0.2 ([#9625](https://github.com/keptn/keptn/issues/9625)) ([cc66087](https://github.com/keptn/keptn/commit/cc6608731937398011c57bf0c2f4e6df0ea72310))
+* **deps:** update sigstore/cosign-installer action to v3.0.3 ([#9651](https://github.com/keptn/keptn/issues/9651)) ([7b55e4d](https://github.com/keptn/keptn/commit/7b55e4dbbd77a7874474288a8a2b34dbd876de85))
+* rebuild master ([#9642](https://github.com/keptn/keptn/issues/9642)) ([76a997d](https://github.com/keptn/keptn/commit/76a997d929b21986dfd39cc4dbf38f52bf6215fb))
+
 ## [1.3.0](https://github.com/keptn/keptn/compare/1.2.0...1.3.0) (2023-04-05)
 
 
